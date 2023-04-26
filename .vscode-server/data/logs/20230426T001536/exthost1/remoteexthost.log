@@ -9,3 +9,5 @@
 2023-04-26 00:15:40.551 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2023-04-26 00:15:40.552 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2023-04-26 00:15:40.552 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-26 01:19:54.144 [info] Extension host terminating: received terminate message from renderer
+2023-04-26 01:19:54.216 [info] Extension host with pid 1489 exiting with code 0
