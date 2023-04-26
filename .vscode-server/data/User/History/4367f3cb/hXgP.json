@@ -1,0 +1,7 @@
+{
+    "window.commandCenter": true,
+    "remote.SSH.remotePlatform": {
+        "192.168.0.225": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}
