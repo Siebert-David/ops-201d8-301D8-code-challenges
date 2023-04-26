@@ -1,0 +1,13 @@
+2023-04-26 17:24:03.227 [info] Extension host with pid 12796 started
+2023-04-26 17:24:03.269 [info] Lock '/home/ds/.vscode-server/data/User/workspaceStorage/a6ba5675d5ff170cc216e8946d3e321e/vscode.lock': Lock acquired.
+2023-04-26 17:24:03.344 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-26 17:24:03.693 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-26 17:24:03.694 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-26 17:24:03.931 [info] Eager extensions activated
+2023-04-26 17:24:03.932 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-26 17:24:03.932 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-26 17:25:36.826 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-26 17:25:48.676 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-04-26 17:25:48.677 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-04-26 17:25:49.654 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-04-26 17:28:45.655 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

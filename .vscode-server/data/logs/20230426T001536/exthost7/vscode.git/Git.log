@@ -1,0 +1,21 @@
+2023-04-26 05:19:33.752 [info] Log level: Info
+2023-04-26 05:19:33.752 [info] Validating found git in: "git"
+2023-04-26 05:19:33.752 [info] Using git "2.34.1" from "git"
+2023-04-26 05:19:33.752 [info] > git rev-parse --show-toplevel [52ms]
+2023-04-26 05:24:09.241 [info] > git rev-parse --show-toplevel [7ms]
+2023-04-26 05:24:13.681 [info] > git rev-parse --show-toplevel [12ms]
+2023-04-26 05:24:20.135 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-26 05:24:32.415 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-26 05:24:32.415 [info] fatal: this operation must be run in a work tree
+2023-04-26 05:24:51.270 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-26 05:24:51.270 [info] fatal: this operation must be run in a work tree
+2023-04-26 05:35:21.306 [info] > git rev-parse --show-toplevel [6ms]
+2023-04-26 05:38:18.548 [info] > git rev-parse --show-toplevel [12ms]
+2023-04-26 05:38:18.563 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-04-26 05:38:18.596 [info] Open repository: /home/ds/helloworld.sh
+2023-04-26 05:38:18.615 [info] > git config --get commit.template [3ms]
+2023-04-26 05:38:18.630 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-04-26 05:38:18.646 [info] > git status -z -uall [3ms]
+2023-04-26 05:38:18.680 [info] > git config --get commit.template [4ms]
+2023-04-26 05:38:18.694 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-04-26 05:38:18.707 [info] > git status -z -uall [3ms]

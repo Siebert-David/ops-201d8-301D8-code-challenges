@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "§pëçïfïës whëthër tø përïøðïçællÿ fëtçh frøm thë µpstrëæm rëpøsïtørÿ",
+  "config.autoFetch.interval": "§pëçïfïës thë ïñtërvæl, ïñ sëçøñðs, tø përïøðïçællÿ fëtçh frøm thë µpstrëæm rëpøsïtørÿ",
+  "config.experimental.lfs.read.enabled": "Çøñtrøls whëthër tø ëñæþlë ëxpërïmëñtæl sµppørt før rëæðïñg fïlës çømmïttëð vïæ Gït £F§",
+  "config.experimental.lfs.write.enabled": "Çøñtrøls whëthër tø ëñæþlë ëxpërïmëñtæl sµppørt før çømmïttïñg vïæ Gït £F§",
+  "config.logLevel": "§pëçïfïës høw mµçh (ïf æñÿ) tø løg tø thë _Æzµrë Rëpøs_ øµtpµt çhæññël",
+  "config.logLevel.debug": "£øgs æll ërrørs, wærñïñgs, æñð mëssægës wïth ëxtræ çøñtëxt µsëfµl før ðëþµggïñg",
+  "config.logLevel.error": "£øgs øñlÿ ërrørs",
+  "config.logLevel.info": "£øgs æll ërrørs, wærñïñgs, æñð mëssægës",
+  "config.logLevel.off": "£øgs ñøthïñg",
+  "config.logLevel.warn": "£øgs æll ërrørs æñð wærñïñgs",
+  "description": "Rëmøtëlÿ þrøwsë æñð ëðït æñÿ Æzµrë Rëpøs",
+  "displayName": "Æzµrë Rëpøs"
+}

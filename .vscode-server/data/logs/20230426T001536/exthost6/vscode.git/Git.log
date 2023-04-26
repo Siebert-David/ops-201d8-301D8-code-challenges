@@ -1,0 +1,29 @@
+2023-04-26 04:50:34.152 [info] Log level: Info
+2023-04-26 04:50:34.153 [info] Validating found git in: "git"
+2023-04-26 04:50:34.153 [info] Using git "2.34.1" from "git"
+2023-04-26 04:57:30.560 [info] > git rev-parse --show-toplevel [184ms]
+2023-04-26 04:57:30.579 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2023-04-26 04:57:30.592 [info] Open repository: /home/ds/ops-201d8-code-challenges
+2023-04-26 04:57:30.605 [info] > git config --get commit.template [2ms]
+2023-04-26 04:57:30.667 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [56ms]
+2023-04-26 04:57:30.681 [info] > git status -z -uall [6ms]
+2023-04-26 04:57:30.712 [info] > git config --get commit.template [9ms]
+2023-04-26 04:57:30.714 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-04-26 04:57:30.722 [info] > git status -z -uall [3ms]
+2023-04-26 04:57:31.083 [info] > git show --textconv :README.md [8ms]
+2023-04-26 04:57:31.083 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [3ms]
+2023-04-26 04:57:31.092 [info] > git cat-file -s 5ad9a67f44aa5461dcc20e277292ce7d75d4d9eb [3ms]
+2023-04-26 04:57:31.341 [info] > git check-ignore -v -z --stdin [2ms]
+2023-04-26 04:58:38.712 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-26 04:58:38.712 [info] fatal: this operation must be run in a work tree
+2023-04-26 04:58:47.925 [info] > git rev-parse --show-toplevel [76ms]
+2023-04-26 04:58:47.925 [info] fatal: this operation must be run in a work tree
+2023-04-26 04:58:56.377 [info] > git rev-parse --show-toplevel [11ms]
+2023-04-26 04:59:28.729 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-26 05:00:00.031 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-26 05:00:16.965 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-26 05:00:16.965 [info] fatal: this operation must be run in a work tree
+2023-04-26 05:00:31.688 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-26 05:01:11.637 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-26 05:01:11.637 [info] fatal: this operation must be run in a work tree
+2023-04-26 05:01:32.614 [info] > git rev-parse --show-toplevel [5ms]

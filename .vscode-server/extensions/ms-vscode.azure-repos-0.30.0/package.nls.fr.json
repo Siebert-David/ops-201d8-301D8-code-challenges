@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "Spécifie s’il faut effectuer régulièrement une extraction à partir du référentiel en amont",
+  "config.autoFetch.interval": "Spécifie l’intervalle, en secondes, à extraire régulièrement du référentiel en amont",
+  "config.experimental.lfs.read.enabled": "Contrôle s’il faut activer la prise en charge expérimentale de la lecture des fichiers validés via Git LFS",
+  "config.experimental.lfs.write.enabled": "Contrôle l'activation de la prise en charge expérimentale lors de la validation via Git LFS",
+  "config.logLevel": "Spécifie la quantité (le cas échéant) de connexion au canal de sortie _Azure Repos_",
+  "config.logLevel.debug": "Journalise toutes les erreurs, avertissements et messages avec un contexte supplémentaire utile pour le débogage",
+  "config.logLevel.error": "Journalise uniquement les erreurs",
+  "config.logLevel.info": "Journalise l’ensemble des erreurs, avertissements et messages",
+  "config.logLevel.off": "Ne journalise rien",
+  "config.logLevel.warn": "Journalise toutes les erreurs et avertissements",
+  "description": "Parcourir et modifier à distance les Azure Repos",
+  "displayName": "Azure Repos"
+}

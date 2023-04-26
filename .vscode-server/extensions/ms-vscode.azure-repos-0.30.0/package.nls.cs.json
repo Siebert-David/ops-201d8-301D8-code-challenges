@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "Určuje, jestli se má pravidelně načítat z nadřazeného úložiště.",
+  "config.autoFetch.interval": "Určuje interval (v sekundách), který se má pravidelně načítat z nadřazeného úložiště.",
+  "config.experimental.lfs.read.enabled": "Určuje, jestli se má povolit experimentální podpora pro čtení souborů potvrzených prostřednictvím Git LFS.",
+  "config.experimental.lfs.write.enabled": "Určuje, jestli se má povolit experimentální podpora pro potvrzení prostřednictvím Git LFS.",
+  "config.logLevel": "Určuje, kolik (pokud nějaké) se má protokolovat do výstupního kanálu _Azure Repos_",
+  "config.logLevel.debug": "Protokolovat všechny chyby, upozornění a zprávy s dodatečným kontextem užitečným pro ladění",
+  "config.logLevel.error": "Protokoluje pouze chyby",
+  "config.logLevel.info": "Protokolovat všechny chyby, upozornění a zprávy",
+  "config.logLevel.off": "Neprotokoluje nic",
+  "config.logLevel.warn": "Zapíše do protokolu všechny chyby a upozornění.",
+  "description": "Vzdálené procházení a úpravy všech Azure Repos",
+  "displayName": "Azure Repos"
+}

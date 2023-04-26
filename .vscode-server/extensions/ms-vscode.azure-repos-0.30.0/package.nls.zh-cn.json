@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "指定是否定期从上游存储库提取",
+  "config.autoFetch.interval": "指定定期从上游存储库提取的时间间隔(以秒为单位)",
+  "config.experimental.lfs.read.enabled": "控制是否启用实验支持，读取通过 Git LFS 提交的文件",
+  "config.experimental.lfs.write.enabled": "控制是否启用通过 Git LFS 进行提交的试验性支持",
+  "config.logLevel": "指定要记录到 _Azure Repos_ 输出通道的量(如果有)",
+  "config.logLevel.debug": "使用可用于调试的额外上下文记录所有错误、警告和消息",
+  "config.logLevel.error": "仅记录错误",
+  "config.logLevel.info": "记录所有错误、警告和消息",
+  "config.logLevel.off": "不记录任何内容",
+  "config.logLevel.warn": "记录所有错误和警告",
+  "description": "远程浏览和编辑任意 Azure Repos",
+  "displayName": "Azure Repos"
+}

@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "Gibt an, ob regelmäßig aus dem Upstream-Repository abgerufen werden soll.",
+  "config.autoFetch.interval": "Gibt das Intervall in Sekunden an, das regelmäßig aus dem Upstream-Repository abgerufen werden soll.",
+  "config.experimental.lfs.read.enabled": "Legt fest, ob experimentelle Unterstützung für das Lesen von Dateien, die über Git LFS übertragen wurden, aktiviert werden soll.",
+  "config.experimental.lfs.write.enabled": "Steuert, ob experimentelle Unterstützung für Commits über Git LFS aktiviert werden soll.",
+  "config.logLevel": "Gibt an, wie viel (falls vorhanden) im _Azure Repos_-Ausgabekanal protokolliert werden soll.",
+  "config.logLevel.debug": "Protokolliert alle Fehler, Warnungen und Meldungen mit zusätzlichem Kontext, der für das Debuggen nützlich ist.",
+  "config.logLevel.error": "Protokolliert nur Fehler",
+  "config.logLevel.info": "Protokolliert alle Fehler, Warnungen und Meldungen",
+  "config.logLevel.off": "Protokolliert nichts",
+  "config.logLevel.warn": "Protokolliert alle Fehler und Warnungen",
+  "description": "Remotesuche und -bearbeitung von Azure Repos",
+  "displayName": "Azure Repos"
+}

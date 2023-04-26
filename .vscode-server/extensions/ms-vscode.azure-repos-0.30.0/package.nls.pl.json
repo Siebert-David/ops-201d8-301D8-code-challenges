@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "Określa, czy okresowo pobierać dane z repozytorium nadrzędnego",
+  "config.autoFetch.interval": "Określa interwał okresowego pobierania z repozytorium nadrzędnego (w sekundach)",
+  "config.experimental.lfs.read.enabled": "Określa, czy włączyć eksperymentalną obsługę odczytywania plików zatwierdzonych za pośrednictwem funkcji Git LFS",
+  "config.experimental.lfs.write.enabled": "Określa, czy włączyć eksperymentalne wsparcie zatwierdzania za pośrednictwem funkcji Git LFS",
+  "config.logLevel": "Określa, ile (jeśli w ogóle) ma być rejestrowane w kanale danych wyjściowych usługi _Azure Repos_",
+  "config.logLevel.debug": "Rejestruje wszystkie błędy, ostrzeżenia i komunikaty z dodatkowym kontekstem przydatnym do debugowania",
+  "config.logLevel.error": "Rejestruje tylko błędy",
+  "config.logLevel.info": "Rejestruje wszystkie błędy, ostrzeżenia i komunikaty",
+  "config.logLevel.off": "Nic nie rejestruje",
+  "config.logLevel.warn": "Rejestruje wszystkie błędy i ostrzeżenia",
+  "description": "Zdalnie przeglądaj i edytuj dowolne repozytoria usługi Azure Repos",
+  "displayName": "Azure Repos"
+}

@@ -1,0 +1,18 @@
+2023-04-26 05:55:13.228 [info] Log level: Info
+2023-04-26 05:55:13.228 [info] Validating found git in: "git"
+2023-04-26 05:55:13.228 [info] Using git "2.34.1" from "git"
+2023-04-26 05:55:13.228 [info] > git rev-parse --show-toplevel [41ms]
+2023-04-26 05:55:13.228 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2023-04-26 05:55:13.228 [info] Open repository: /home/ds/helloworld1.sh
+2023-04-26 05:55:13.228 [info] > git config --get commit.template [1ms]
+2023-04-26 05:55:13.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-04-26 05:55:13.228 [info] > git status -z -uall [7ms]
+2023-04-26 05:55:13.228 [info] > git config --get commit.template [3ms]
+2023-04-26 05:55:13.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [51ms]
+2023-04-26 05:55:13.228 [info] > git status -z -uall [5ms]
+2023-04-26 05:59:41.426 [info] > git push -u origin main [19ms]
+2023-04-26 05:59:41.426 [info] error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Siebert-David/helloworld1.sh.git'
+2023-04-26 05:59:41.458 [info] > git config --get commit.template [15ms]
+2023-04-26 05:59:41.459 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-04-26 05:59:41.476 [info] > git status -z -uall [5ms]

@@ -13,3 +13,5 @@
 2023-04-26 00:48:17.075 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
 2023-04-26 00:48:17.735 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
 2023-04-26 00:52:53.655 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-04-26 03:51:20.667 [info] Extension host terminating: received terminate message from renderer
+2023-04-26 03:51:20.717 [info] Extension host with pid 1904 exiting with code 0

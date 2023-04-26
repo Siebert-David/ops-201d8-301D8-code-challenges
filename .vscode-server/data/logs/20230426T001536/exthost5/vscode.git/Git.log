@@ -1,0 +1,67 @@
+2023-04-26 03:59:08.805 [info] Log level: Info
+2023-04-26 03:59:08.805 [info] Validating found git in: "git"
+2023-04-26 03:59:08.805 [info] Using git "2.34.1" from "git"
+2023-04-26 03:59:08.805 [info] > git rev-parse --show-toplevel [54ms]
+2023-04-26 03:59:08.805 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-04-26 03:59:08.805 [info] Open repository: /home/ds/ops-201d8-code-challenges
+2023-04-26 03:59:08.805 [info] > git config --get commit.template [5ms]
+2023-04-26 03:59:08.805 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-04-26 03:59:08.805 [info] > git status -z -uall [5ms]
+2023-04-26 03:59:08.859 [info] > git config --get commit.template [55ms]
+2023-04-26 03:59:08.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2023-04-26 03:59:08.882 [info] > git status -z -uall [9ms]
+2023-04-26 03:59:09.235 [info] > git show --textconv :README.md [8ms]
+2023-04-26 03:59:09.237 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [3ms]
+2023-04-26 03:59:09.245 [info] > git cat-file -s 6d1955ad00f6dce3b74418dd3ab32685956c735a [2ms]
+2023-04-26 03:59:09.375 [info] > git check-ignore -v -z --stdin [2ms]
+2023-04-26 04:02:42.405 [info] > git show --textconv :README.md [18ms]
+2023-04-26 04:02:42.409 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [8ms]
+2023-04-26 04:02:42.427 [info] > git cat-file -s 6d1955ad00f6dce3b74418dd3ab32685956c735a [8ms]
+2023-04-26 04:18:04.202 [info] > git show --textconv HEAD:README.md [16ms]
+2023-04-26 04:18:04.207 [info] > git ls-tree -l HEAD -- /home/ds/ops-201d8-code-challenges/README.md [8ms]
+2023-04-26 04:18:32.445 [info] > git ls-tree -l HEAD -- /home/ds/ops-201d8-code-challenges/README.md [23ms]
+2023-04-26 04:18:32.448 [info] > git add -A -- . [7ms]
+2023-04-26 04:18:32.466 [info] > git -c user.useConfigOnly=true commit --quiet [7ms]
+2023-04-26 04:18:32.466 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2023-04-26 04:18:32.479 [info] > git config --get-all user.name [2ms]
+2023-04-26 04:18:32.504 [info] > git config --get commit.template [13ms]
+2023-04-26 04:18:32.505 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-04-26 04:18:32.527 [info] > git status -z -uall [12ms]
+2023-04-26 04:18:37.199 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [18ms]
+2023-04-26 04:18:37.211 [info] > git config --get commit.template [14ms]
+2023-04-26 04:18:37.212 [info] > git cat-file -s 5ad9a67f44aa5461dcc20e277292ce7d75d4d9eb [4ms]
+2023-04-26 04:18:37.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-04-26 04:18:37.241 [info] > git status -z -uall [4ms]
+2023-04-26 04:18:37.268 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [3ms]
+2023-04-26 04:18:37.291 [info] > git cat-file -s 5ad9a67f44aa5461dcc20e277292ce7d75d4d9eb [13ms]
+2023-04-26 04:18:37.293 [info] > git show --textconv :README.md [5ms]
+2023-04-26 04:18:37.346 [info] > git show --textconv :README.md [4ms]
+2023-04-26 04:18:42.280 [info] > git config --get commit.template [15ms]
+2023-04-26 04:18:42.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-04-26 04:18:42.301 [info] > git status -z -uall [6ms]
+2023-04-26 04:20:38.706 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [3ms]
+2023-04-26 04:20:38.720 [info] > git cat-file -s 5ad9a67f44aa5461dcc20e277292ce7d75d4d9eb [3ms]
+2023-04-26 04:22:59.868 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [2ms]
+2023-04-26 04:22:59.880 [info] > git cat-file -s 5ad9a67f44aa5461dcc20e277292ce7d75d4d9eb [3ms]
+2023-04-26 04:24:37.028 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [3ms]
+2023-04-26 04:24:37.045 [info] > git cat-file -s 5ad9a67f44aa5461dcc20e277292ce7d75d4d9eb [5ms]
+2023-04-26 04:25:45.379 [info] > git ls-files --stage -- /home/ds/ops-201d8-code-challenges/README.md [2ms]
+2023-04-26 04:25:45.391 [info] > git cat-file -s 5ad9a67f44aa5461dcc20e277292ce7d75d4d9eb [2ms]
+2023-04-26 04:26:41.777 [info] > git config --get commit.template [3ms]
+2023-04-26 04:26:41.792 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-04-26 04:26:41.805 [info] > git status -z -uall [4ms]
+2023-04-26 04:34:23.789 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-04-26 04:47:17.023 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-04-26 04:47:51.265 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]

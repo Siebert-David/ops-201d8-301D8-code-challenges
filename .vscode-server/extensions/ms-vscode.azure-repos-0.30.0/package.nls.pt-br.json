@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "Especifica se deve buscar periodicamente no repositório upstream",
+  "config.autoFetch.interval": "Especifica o intervalo, em segundos, para buscar periodicamente no repositório upstream",
+  "config.experimental.lfs.read.enabled": "Controla se deve habilitar o suporte experimental para leitura de arquivos confirmados via Git LFS",
+  "config.experimental.lfs.write.enabled": "Controla se deve habilitar o suporte experimental para confirmação via Git LFS",
+  "config.logLevel": "Especifica quanto (se houver) registrar no canal de saída _Azure Repos_",
+  "config.logLevel.debug": "Registra todos os erros, avisos e mensagens com contexto extra útil para depuração",
+  "config.logLevel.error": "Registra somente erros",
+  "config.logLevel.info": "Registra todos os erros, avisos e mensagens",
+  "config.logLevel.off": "Não registra nada",
+  "config.logLevel.warn": "Registra todos os erros e avisos",
+  "description": "Navegue e edite remotamente qualquer Azure Repos",
+  "displayName": "Azure Repos"
+}

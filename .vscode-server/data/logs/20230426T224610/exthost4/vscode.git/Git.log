@@ -1,0 +1,18 @@
+2023-04-26 23:00:00.259 [info] Log level: Info
+2023-04-26 23:00:00.259 [info] Validating found git in: "git"
+2023-04-26 23:00:00.259 [info] Using git "2.34.1" from "git"
+2023-04-26 23:00:00.259 [info] > git rev-parse --show-toplevel [40ms]
+2023-04-26 23:00:00.259 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-04-26 23:00:00.259 [info] Open repository: /home/ds/helloworld1.sh
+2023-04-26 23:00:00.259 [info] > git config --get commit.template [44ms]
+2023-04-26 23:00:00.259 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2023-04-26 23:00:00.259 [info] > git status -z -uall [3ms]
+2023-04-26 23:00:00.259 [info] > git config --get commit.template [8ms]
+2023-04-26 23:00:00.259 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-26 23:00:00.259 [info] > git status -z -uall [5ms]
+2023-04-26 23:06:28.739 [info] > git check-ignore -v -z --stdin [2ms]
+2023-04-26 23:06:32.412 [info] > git show --textconv :README.md [7ms]
+2023-04-26 23:06:32.414 [info] > git ls-files --stage -- /home/ds/helloworld1.sh/README.md [3ms]
+2023-04-26 23:06:45.927 [info] > git config --get commit.template [3ms]
+2023-04-26 23:06:45.940 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2023-04-26 23:06:45.953 [info] > git status -z -uall [3ms]

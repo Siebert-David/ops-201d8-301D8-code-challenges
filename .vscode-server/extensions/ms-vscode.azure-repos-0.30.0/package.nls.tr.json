@@ -1,0 +1,14 @@
+{
+  "config.autoFetch.enabled": "Yukarı akış deposundan düzenli aralıklarla getirilip getirilemeyeceğini belirtir",
+  "config.autoFetch.interval": "Yukarı akış deposundan düzenli olarak getirilecek aralığı saniye cinsinden belirtir",
+  "config.experimental.lfs.read.enabled": "Git LFS aracılığıyla işlenen dosyaları okumak için deneysel desteğin etkinleştirilip etkinleştirilmeyeceğini kontrol eder",
+  "config.experimental.lfs.write.enabled": "Git LFS aracılığıyla işleme için deneysel desteğin etkinleştirilip etkinleştirilmeyeceğini denetler",
+  "config.logLevel": "_Azure Repos_ çıkış kanalına ne kadar (varsa) günlük kaydedileceğini belirtir",
+  "config.logLevel.debug": "Hata ayıklama için yararlı ek bağlamla birlikte tüm hataları, uyarıları ve iletileri günlüğe kaydeder",
+  "config.logLevel.error": "Yalnızca hataları günlüğe kaydeder",
+  "config.logLevel.info": "Tüm hataları, uyarıları ve iletileri günlüğe kaydeder",
+  "config.logLevel.off": "Hiçbir şeyi günlüğe kaydetmez",
+  "config.logLevel.warn": "Tüm hataları ve uyarıları kaydeder",
+  "description": "Tüm Azure Repos’a uzaktan göz at ve düzenle",
+  "displayName": "Azure Repos"
+}
