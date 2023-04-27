@@ -6,12 +6,16 @@
 # Purpose:                      Print Hello World
 
 # Declaration of variables
-var-"hello world"
+
+
 # Declaration of functions
+print_something () {
+    echo Hello World
+}
 
 
 # Main
-echo "hello world"
-echo $var
+
+print_something
 
 # End
