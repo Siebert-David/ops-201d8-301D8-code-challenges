@@ -1,0 +1,199 @@
+restart
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   .dotnet/corefx/cryptography/crls/7462804f.d5a68194.crl
+#	new file:   .dotnet/corefx/cryptography/crls/75d1b2ed.de05bb98.crl
+#	new file:   .dotnet/corefx/cryptography/crls/7abcc12f.dea36fd7.crl
+#	new file:   .dotnet/corefx/cryptography/crls/d16da424.cbeb964c.crl
+#	new file:   .gitconfig
+#	new file:   .lesshst
+#	modified:   .vscode-server/.704ed70d4fd1c6bd6342c436f1ede30d1cff4710.log
+#	modified:   .vscode-server/.704ed70d4fd1c6bd6342c436f1ede30d1cff4710.pid
+#	modified:   .vscode-server/.704ed70d4fd1c6bd6342c436f1ede30d1cff4710.token
+#	new file:   .vscode-server/data/CachedExtensionVSIXs/github.remotehub-0.54.0
+#	new file:   .vscode-server/data/CachedExtensionVSIXs/ms-vscode.azure-repos-0.30.0
+#	new file:   .vscode-server/data/CachedExtensionVSIXs/ms-vscode.remote-repositories-0.32.0
+#	modified:   .vscode-server/data/CachedProfilesData/__default__profile__/extensions.user.cache
+#	new file:   .vscode-server/data/User/History/-2ffbeccc/entries.json
+#	new file:   .vscode-server/data/User/History/-2ffbeccc/hJBe.md
+#	new file:   .vscode-server/data/User/History/1bb4acf1/0PDY.md
+#	new file:   .vscode-server/data/User/History/1bb4acf1/34h3.md
+#	new file:   .vscode-server/data/User/History/1bb4acf1/V1jP.md
+#	new file:   .vscode-server/data/User/History/1bb4acf1/entries.json
+#	new file:   .vscode-server/data/User/History/1bb4acf1/hiWN.md
+#	new file:   .vscode-server/data/User/History/4367f3cb/7Frs.json
+#	modified:   .vscode-server/data/User/History/4367f3cb/entries.json
+#	new file:   .vscode-server/data/User/History/4367f3cb/gQ39.json
+#	new file:   .vscode-server/data/User/History/4367f3cb/iL9t.json
+#	new file:   .vscode-server/data/User/History/4367f3cb/qdEB.json
+#	new file:   .vscode-server/data/User/workspaceStorage/1e07c8fb548e2c17f7003d6227d44f10/vscode.lock
+#	new file:   .vscode-server/data/User/workspaceStorage/a6ba5675d5ff170cc216e8946d3e321e/vscode.lock
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost10/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost10/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost11/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost11/vscode.git/Git.log
+#	modified:   .vscode-server/data/logs/20230426T001536/exthost3/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost4/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost4/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost5/output_logging_20230426T035907/1-JSON Language Server.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost5/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost5/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost6/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost6/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost7/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost7/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost8/output_logging_20230426T054116/1-JSON Language Server.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost8/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost8/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost9/output_logging_20230426T055512/1-JSON Language Server.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost9/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T001536/exthost9/vscode.git/Git.log
+#	modified:   .vscode-server/data/logs/20230426T001536/remoteagent.log
+#	modified:   .vscode-server/data/logs/20230426T001536/remoteptyhost.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost1/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost1/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost2/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost2/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost3/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost3/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost4/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost4/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost5/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost5/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost6/remoteexthost.log
+#	new file:   .vscode-server/data/logs/20230426T224610/exthost6/vscode.git/Git.log
+#	new file:   .vscode-server/data/logs/20230426T224610/remoteagent.log
+#	new file:   .vscode-server/data/logs/20230426T224610/remotenetwork.log
+#	new file:   .vscode-server/data/logs/20230426T224610/remoteptyhost.log
+#	modified:   .vscode-server/extensions/extensions.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/.vsixmanifest
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/CHANGELOG.md
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/LICENSE.txt
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/README.md
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/ThirdPartyNotices.txt
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/dist/browser/extension.js
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/dist/extension.js
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.cs.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.de.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.es.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.fr.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.it.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.ja.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.ko.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.pl.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.pt-br.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.qps-ploc.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.ru.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.tr.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.zh-cn.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/l10n/bundle.l10n.zh-tw.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.cs.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.de.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.es.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.fr.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.it.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.ja.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.ko.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.pl.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.pt-br.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.qps-ploc.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.ru.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.tr.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.zh-cn.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/package.nls.zh-tw.json
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/resources/github.png
+#	new file:   .vscode-server/extensions/github.remotehub-0.54.0/telemetry.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/.vsixmanifest
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/LICENSE.txt
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/README.md
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/ThirdPartyNotices.txt
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/dist/browser/extension.js
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/dist/extension.js
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.cs.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.de.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.es.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.fr.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.it.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.ja.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.ko.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.pl.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.pt-br.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.qps-ploc.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.ru.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.tr.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.zh-cn.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/l10n/bundle.l10n.zh-tw.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.cs.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.de.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.es.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.fr.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.it.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.ja.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.ko.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.pl.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.pt-br.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.qps-ploc.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.ru.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.tr.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.zh-cn.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/package.nls.zh-tw.json
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/resources/azure-repos.png
+#	new file:   .vscode-server/extensions/ms-vscode.azure-repos-0.30.0/telemetry.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/.vsixmanifest
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/CHANGELOG.md
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/LICENSE.txt
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/README.md
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/ThirdPartyNotices.txt
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/dist/browser/extension.js
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/dist/extension.js
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.cs.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.de.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.es.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.fr.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.it.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.ja.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.ko.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.pl.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.pt-br.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.qps-ploc.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.ru.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.tr.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.zh-cn.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/l10n/bundle.l10n.zh-tw.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/lsif.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.cs.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.de.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.es.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.fr.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.it.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.ja.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.ko.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.pl.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.pt-br.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.qps-ploc.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.ru.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.tr.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.zh-cn.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/package.nls.zh-tw.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/resources/continue-working-on.svg
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/resources/github-pr.png
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/resources/open-remote-repository.svg
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/resources/remote-indicator.svg
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/resources/remote-repositories.png
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/resources/scm.svg
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/schemas/package.schema.json
+#	new file:   .vscode-server/extensions/ms-vscode.remote-repositories-0.32.0/telemetry.json
+#
+# Changes not staged for commit:
+#	modified:   .vscode-server/data/logs/20230426T224610/exthost6/vscode.git/Git.log
+#	modified:   ops-201d8-code-challenges (modified content)
+#
