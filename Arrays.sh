@@ -2,23 +2,22 @@
 
 # Script Name:                  Hello World
 # Author:                       David Siebert 
-# Date of latest revision:      04/28/2023
+# Date of latest revision:      04/29/2023
 # Purpose:                      Array
 
 # Declaration of global variables
-files+(f1.txt" "f2.txt" "f3.txt" "f4.txt" "f5.txt")
+dirArray=(dir1 dir2 dir3 dir4)
 
-# Declaration of functions
-
-var=5
-echo $var
 
 # Main
-echo ${files[4]}
-echo ${files[3]}
-echo ${files[2]}
-echo ${files[1]}
-echo ${files[0]}
+mkdir ${directory[3]}
+mkdir ${directory[2]}
+mkdir ${directory[1]}
+mkdir ${directory[0]}
 
-func    
+ touch "${dirArray[3]}/test.txt
+ touch "${dirArray[2]}/test.txt
+ touch "${dirArray[1]}/test.txt
+ touch "${dirArray[0]}/test.txt
+ 
 # End
