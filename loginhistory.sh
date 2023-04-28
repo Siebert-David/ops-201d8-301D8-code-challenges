@@ -20,5 +20,8 @@ print_something () {
 # Main
 
 print_something
+print_something
+print_something
+
 
 # End
