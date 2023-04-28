@@ -10,14 +10,14 @@ dirArray=(dir1 dir2 dir3 dir4)
 
 
 # Main
-mkdir ${directory[3]}
-mkdir ${directory[2]}
-mkdir ${directory[1]}
 mkdir ${directory[0]}
+mkdir ${directory[1]}
+mkdir ${directory[2]}
+mkdir ${directory[3]}
 
-touch "${dirArray[3]}/test.txt
-touch "${dirArray[2]}/test.txt
-touch "${dirArray[1]}/test.txt
-touch "${dirArray[0]}/test.txt
+touch "${dirArray[0]}/test.txt"
+touch "${dirArray[1]}/test.txt"
+touch "${dirArray[2]}/test.txt"
+touch "${dirArray[3]}/test.txt"
 
 # End
