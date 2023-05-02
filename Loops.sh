@@ -2,7 +2,7 @@
 
 # Script Name:                 Kill loop
 # Author:                       david Siebert
-# Date of latest revision:      04/29/2223
+# Date of latest revision:     05/01/2023
 # Purpose:                      loop/kill
 
 # Declaration of variables
