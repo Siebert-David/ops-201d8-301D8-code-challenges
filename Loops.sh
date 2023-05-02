@@ -7,24 +7,29 @@
 
 # Declaration of variables
 
+# Declaration of variables
+
+
 # Declaration of functions
 
-while true; do
-  # display running processes
-  echo "Currently running processes:"
-  ps aux
-  
-  # ask user for PID to kill
-  read -p "Enter PID to kill (or press Ctrl + C to exit): " pid
-  
-  
-  # attempt to kill the process with the given PID
-  echo "Attempting to kill PID $pid..."
-  if kill $pid; then
-    echo "Process killed successfully."
-  else
-    echo "Failed to kill PID $pid."
-  fi
+
+# Main
+echo "-----------------------------------------------------------------------------------"
+echo exit with Ctrl+C
+echo "-----------------------------------------------------------------------------------"
+
+while :
+do
+echo "Displaying running processes:"
+echo "-------------------------------"
+ps -au
+
+echo Enter a PID you want to kill: 
+read user_input
+
+kill -9 $user_input
+echo PID $user_input was killed
+echo "-------------------------------"
 done
 
-#End
+# End
