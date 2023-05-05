@@ -3,7 +3,7 @@
 # Script Name:                  Batch.sh
 # Author:                       David Siebert 
 # Date of latest revision:      03MAY2023
-# Purpose:                      Batch ( this is my test of concept. I dont know how to run this on the VM )
+# Purpose:                      Batch ( this is my test of concept. I dont know how to get this to run as I planmned)
 
 
 # Declaration of variables
