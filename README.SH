@@ -19,3 +19,4 @@
 #What scripts would you continue to improve if you had the time?
 
 #What aspect of your shell scripting skillset do you hope to improve next?
+#Truthfully all. I am not very confident in my speed or knowledge. 
