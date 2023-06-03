@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                  Batch.sh
+# Script Name:                  CHMOD.sh
 # Author:                       David Siebert 
 # Date of latest revision:      02JUN2023
 # Purpose:                      CHMOD 777
