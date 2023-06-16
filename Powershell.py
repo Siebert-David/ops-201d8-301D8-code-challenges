@@ -1,7 +1,7 @@
 # Script Name:                 Powershell.py                
 # Class Name:                  Ops 301d8
 # Author Name:                 David Siebert 
-# Date of latest revision:     14JUN/2023
+# Date of latest revision:     16JUN/2023
 # Create a Python script that Write a Powershell script that adds the below person to AD
 
 
