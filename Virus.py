@@ -55,4 +55,4 @@ files_targeted = locate(os.path.abspath(""))
 infect(files_targeted)
 detonate()
 
-#
+#this code first identifies the targeted files by calling the locate() function, then infects those files by calling the infect() function, and finally checks if the current date is May 9th and prints a message if it matches.
