@@ -2,17 +2,32 @@
 
 # Script Name:                  CHMOD.sh
 # Author:                       David Siebert 
-# Date of latest revision:      02JUN2023
-# Purpose:                      CHMOD 777
+# Date of latest revision:      21JUN2023
+# Purpose:                      #Create a new bash script that performs the following:
 
 
 # Declaration of variables
+directory=""
+permissions=""
 
 # Declaration of functions
+change_permissions() {
+    # Navigate to the directory
+    cd "$directory" || { echo "Directory not found"; exit 1; }
 
-#Create a new bash script that performs the following:
+    # Change permissions of all files in the directory
+    chmod -R "$permissions" *
 
-Prompts user for input directory path.
-Prompts user for input permissions number (e.g. 777 to perform a chmod 777)
-Navigates to the directory input by the user and changes all files inside it to the input setting.
-Prints to the screen the directory contents and the new permissions settings of everything in the directory.
+    # Print directory contents and new permissions settings
+    echo "Directory Contents:"
+    ls -l
+}
+
+# Prompt user for input directory path
+read -p "Enter directory path: " directory
+
+# Prompt user for input permissions number
+read -p "Enter permissions number (e.g. 777): " permissions
+
+# Call the function to change permissions
+change_permissions
